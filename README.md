@@ -1,5 +1,8 @@
 ## Hi there 👋
 I am a PhD student specializing in Artificial Intelligence (AI) and Computational Storage Devices, focusing on integrating computation into storage systems to enhance data processing efficiency for AI workloads. 
+ 
+📫 How to reach me: 
+www.linkedin.com/in/muhammad-danish-tehseen-07950ba3
 <!--
 **danish-1996/danish-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
