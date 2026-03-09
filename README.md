@@ -18,7 +18,7 @@ Whether I am optimizing GPU utilization for LLM-based agent frameworks or deploy
 
 ### 📫 Let's Connect:
 * **LinkedIn:** https://www.linkedin.com/in/mdanishtehseen/
-* **Email:** danishtehseen703@gmail.com
+
 
 ---
 *"Building efficient AI systems: from computational storage to agent optimization."*
